@@ -17,7 +17,9 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | o título foi gerado no mesmo prompt para geração do conteúdo                                                        |
 | conteúdo | escreva um ebook sobre licitação no estilo da série de livros "para leigos", usando uma linguagem acessível e divertida, explicando a origem dos processos de licitação, descrevendo sua importância para a sociedade com base nos 5 princípios da administração, trazendo uma linha do tempo da evolução dos processos licitatórios em compras públicas no Brasil, até chegar às leis 13.303/2016 e 14.133/2021, estruture o ebook com tópicos e subtópicos, forneça fatos curiosos ao fim de cada tópico e formule uma conclusão com linguagem amigável, convidando o leitor a conhecer mais sobre licitação e compras públicas |
-
+| conteúdo 2| eu achei que a estrutura ficou boa mas o conteúdo ficou um pouco breve demais, preciso que você elabore mais os subtópicos, podendo trazer algumas referências de autores consagrados na área de licitação e contratação pública no Brasil, bem como fazer algumas referências a artigos das leis 13.303/2016 e 14.133/2021 |
+| conteúdo 3| inclua o item 1.3. Origens da Licitação no Brasil e inclua uma breve explicação sobre ele |
+| conteúdo 4| elabore melhor os itens 5.1 e 5.2 e inclua exemplos dos entes da administração pública que são regidos por cada uma dessas leis |
 
 Microsoft Create：
 
